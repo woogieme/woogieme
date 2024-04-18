@@ -41,4 +41,4 @@ jobs:
           git config --local user.email "wodnr8462@naver.com"
           git config --local user.name "malpipapi"
           git commit -m "Update README.md"
-          git push
+          git push origin +master
