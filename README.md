@@ -4,7 +4,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/woogieme)
 
-
 ## ✨ Back-end Stack ✨
 
 <div>
@@ -33,6 +32,8 @@
 
 </div>
 
+<br>
 
+### 📕 Latest Blog Posts
 
-
+<a href ="https://woogieme.tistory.com/11"> [시뮬레이션] 2차원 배열에서 Bomb? Down! </a> <br><a href ="https://woogieme.tistory.com/10"> [Knowledge] Test Code, Refactoring 왜 필요한것인가? (1) </a> <br><a href ="https://woogieme.tistory.com/9"> [Tech-Stack] 전략 패턴(Strategy Pattern)이란 ? </a> <br><a href ="https://woogieme.tistory.com/8"> [Tech-Stack] 템플릿 메서드 패턴이란 ? </a> <br><a href ="https://woogieme.tistory.com/7"> [Tech Stack] 로그 추적기란? - 3(완료) </a> <br>
