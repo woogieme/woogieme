@@ -39,6 +39,6 @@ jobs:
         run: |          
           git add .
           git config --local user.email "wodnr8462@naver.com"
-          git config --local user.name "malpipapi"
+          git config --local user.name "woogieme"
           git commit -m "Update README.md"
           git push origin +master
