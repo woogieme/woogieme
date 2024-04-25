@@ -39,4 +39,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://woogieme.tistory.com/12"> [문제 해결 기초] 빅오표기법과 시간복잡도....! 내가 다 해결해줄게! </a> <br><a href ="https://woogieme.tistory.com/11"> [시뮬레이션] 2차원 배열에서 Bomb? Down! </a> <br><a href ="https://woogieme.tistory.com/10"> [Knowledge] Test Code, Refactoring 왜 필요한것인가? (1) </a> <br><a href ="https://woogieme.tistory.com/9"> [Tech-Stack] 전략 패턴(Strategy Pattern)이란 ? </a> <br><a href ="https://woogieme.tistory.com/8"> [Tech-Stack] 템플릿 메서드 패턴이란 ? </a> <br>
+<a href ="https://woogieme.tistory.com/13"> 상속을 간단하게 알아보는 시간 [고민하는 끄적임] </a> <br><a href ="https://woogieme.tistory.com/12"> [문제 해결 기초] 빅오표기법과 시간복잡도....! 내가 다 해결해줄게! </a> <br><a href ="https://woogieme.tistory.com/11"> [시뮬레이션] 2차원 배열에서 Bomb? Down! </a> <br><a href ="https://woogieme.tistory.com/10"> [Knowledge] Test Code, Refactoring 왜 필요한것인가? (1) </a> <br><a href ="https://woogieme.tistory.com/9"> [Tech-Stack] 전략 패턴(Strategy Pattern)이란 ? </a> <br>
