@@ -9,6 +9,20 @@ markdown_text = """
 <div align="center">
 
 # Back-End Developer
+안녕하세요. 팀원들과 오프닝부터 엔드게임까지 잘 화합하여 지식의 기반을 다지고싶은 개발자, 우기입니다.
+
+# 현 목표 (최근기록 24.04.30)  
+## 1일 1커밋 (의미없는 커밋은 하지말자)
+## 무조건 1일 1문제 풀기 (문제 해결능력은 매일 지니기)
+## Talktopia, Aucation 리팩토링
+## MSA 한번 뜯고 맛보고 즐기고
+## 1주 1회 CS 정리 (CS지식이 없다면 개발은 의미없다)
+- 운영체제 
+- 데이터베이스
+- 네트워크
+- 컴퓨터 구조
+- 현실에 적용된 CS
+- 자바
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/woogieme)
 
