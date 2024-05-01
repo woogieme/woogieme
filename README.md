@@ -43,4 +43,4 @@ CS 정리 <br>
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://woogieme.tistory.com/14"> 정보처리기사 회고록 </a> <br><a href ="https://woogieme.tistory.com/13"> 상속을 간단하게 알아보는 시간 [고민하는 끄적임] </a> <br><a href ="https://woogieme.tistory.com/12"> [문제 해결 기초] 빅오표기법과 시간복잡도....! 내가 다 해결해줄게! </a> <br><a href ="https://woogieme.tistory.com/11"> [시뮬레이션] 2차원 배열에서 Bomb? Down! </a> <br><a href ="https://woogieme.tistory.com/10"> [Knowledge] Test Code, Refactoring 왜 필요한것인가? (1) </a> <br>
+<a href ="https://woogieme.tistory.com/17"> [정렬-NlogN] 합병, 힙 정렬 </a> <br><a href ="https://woogieme.tistory.com/16"> [정렬-N제곱] Bubble, 선택, 삽입 정렬 </a> <br><a href ="https://woogieme.tistory.com/15"> 인생에 대한 회고록 ! </a> <br><a href ="https://woogieme.tistory.com/14"> 정보처리기사 회고록 </a> <br><a href ="https://woogieme.tistory.com/13"> 상속을 간단하게 알아보는 시간 [고민하는 끄적임] </a> <br>
