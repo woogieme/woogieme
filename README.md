@@ -43,4 +43,4 @@ CS 정리 <br>
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://woogieme.tistory.com/17"> [정렬-NlogN] 합병, 힙 정렬 </a> <br><a href ="https://woogieme.tistory.com/16"> [정렬-N제곱] Bubble, 선택, 삽입 정렬 </a> <br><a href ="https://woogieme.tistory.com/15"> 인생에 대한 회고록 ! </a> <br><a href ="https://woogieme.tistory.com/14"> 정보처리기사 회고록 </a> <br><a href ="https://woogieme.tistory.com/13"> 상속을 간단하게 알아보는 시간 [고민하는 끄적임] </a> <br>
+<a href ="http://woogieme.tistory.com/17"> [정렬-NlogN] 합병, 힙 정렬 </a> <br><a href ="http://woogieme.tistory.com/16"> [정렬-N제곱] Bubble, 선택, 삽입 정렬 </a> <br><a href ="http://woogieme.tistory.com/15"> 인생에 대한 회고록 ! </a> <br><a href ="http://woogieme.tistory.com/14"> 정보처리기사 회고록 </a> <br><a href ="http://woogieme.tistory.com/13"> 상속을 간단하게 알아보는 시간 [고민하는 끄적임] </a> <br>
