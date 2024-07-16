@@ -43,4 +43,4 @@ CS 정리 <br>
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://woogieme.tistory.com/22"> [운영체제] 운영체제 구조 - 2 </a> <br><a href ="https://woogieme.tistory.com/21"> [Code Tree] 누적합 - 부분 수열의 합이 K 구하기 </a> <br><a href ="https://woogieme.tistory.com/20"> [운영체제] 운영체제 구조 (시스템 구조를 먼저 알아보자)- 1 </a> <br><a href ="https://woogieme.tistory.com/18"> 누적합 - 구간 내 숫자의 합을 빠르게 구할때 어떻게 해야하는가? </a> <br><a href ="https://woogieme.tistory.com/17"> [정렬-NlogN] 합병, 힙 정렬 </a> <br>
+<a href ="https://woogieme.tistory.com/24"> [운영체제] Process 1 [프로세스란 무엇인가 ?] </a> <br><a href ="https://woogieme.tistory.com/23"> Binary Search </a> <br><a href ="https://woogieme.tistory.com/22"> [운영체제] 운영체제 구조 - 2 </a> <br><a href ="https://woogieme.tistory.com/21"> [Code Tree] 누적합 - 부분 수열의 합이 K 구하기 </a> <br><a href ="https://woogieme.tistory.com/20"> [운영체제] 운영체제 구조 (시스템 구조를 먼저 알아보자)- 1 </a> <br>
