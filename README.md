@@ -43,4 +43,4 @@ CS 정리 <br>
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://woogieme.tistory.com/29"> DP, 격자 안에서 한칸씩 전진하는 DP </a> <br><a href ="https://woogieme.tistory.com/28"> DP ,Subproblem을 그대로   합치면 되는 DP </a> <br><a href ="https://woogieme.tistory.com/27"> [운영체제] Process 2 [비동기,동기식 입출력과 Scheduling Queue, Thread] </a> <br><a href ="https://woogieme.tistory.com/26"> [Code Tree] TreeSet - 최대로 연속한 숫자 [미해결] </a> <br><a href ="https://woogieme.tistory.com/25"> [Code Tree] Binary Search - 숫자 빠르게 찾기 [해결] [코드트리 조별과제] </a> <br>
+<a href ="https://woogieme.tistory.com/30"> [Side-Project] WAS를 이용한 실습 1 - index.html 응답하기 </a> <br><a href ="https://woogieme.tistory.com/29"> DP, 격자 안에서 한칸씩 전진하는 DP </a> <br><a href ="https://woogieme.tistory.com/28"> DP ,Subproblem을 그대로   합치면 되는 DP </a> <br><a href ="https://woogieme.tistory.com/27"> [운영체제] Process 2 [비동기,동기식 입출력과 Scheduling Queue, Thread] </a> <br><a href ="https://woogieme.tistory.com/26"> [Code Tree] TreeSet - 최대로 연속한 숫자 [미해결] </a> <br>
